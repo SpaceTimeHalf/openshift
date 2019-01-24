@@ -15,7 +15,7 @@
 
 用 notepad++ 將上述變數中 \r\n 替换为\\n，成一行，導入容器。
 
-客户端： android Actinium、windows v2ray 可用同一个客戶端。
+客户端： android Actinium、windows v2ray 可用同一個客戶端。
 
 
 
